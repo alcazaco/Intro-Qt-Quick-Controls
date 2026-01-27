@@ -1,6 +1,22 @@
 # Intro-Qt-Quick-Controls
 
-This is the repo for the introduction to Qt Quick Controls course on Qt Academy.
+This is the repo for the Qt Academy Introduction to Qt Quick Controls course.
+
+> Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q#qml-for-beginners)
+
+> You can also find the course playlist on the [Qt YouTube channel](https://youtube.com/playlist?list=PLizsthdRd0Yww-Fgb5pAd48DWk0OuoLeK&si=wrMMXdRyyOVvLeNl)
+
+## 🎯 What You'll Learn
+
+- **Understand Qt Quick Controls** and how they can help you build UIs faster
+- **Learn about the different types of Qt Quick Controls** and when to use them
+- **Explore best practices** for using Qt Quick Controls in your projects
+- **Structure your QML code** effectively using custom components
+- **Build a simple home control application** using Qt Quick Controls
+
+**⭐ Skill Level:** Beginner
+
+**⏱️ Time to Complete:** 65 minutes
 
 ## Getting Started
 
@@ -19,7 +35,7 @@ To run a version of the project from a specific section, navigate to the desired
 
 Please note that in order to run the each section, you will need to copy the resources from the `00-Assets` folder into the section you wish to run. The assets are not included in the section folders to keep the repo size small.
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
