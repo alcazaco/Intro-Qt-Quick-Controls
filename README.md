@@ -61,4 +61,4 @@ This software package may provide links or access to third party libraries or co
 ### Third-Party Attributions
 
 - The background image used in this project is sourced and adapted from [Rafi](https://stock.adobe.com) / stock.adobe.com
-- The SVG icons used in this project are sourced from [Material Symbols Library](http://fonts.google.com/icons). Material Symbols are available under the Apache License Version 2.0.
+- The SVG icons used in this project are sourced from [Material Symbols Library](https://fonts.google.com/icons) provided by Google. The icons are available under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
